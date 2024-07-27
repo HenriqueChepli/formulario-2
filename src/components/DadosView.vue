@@ -49,6 +49,14 @@ console.log(props.Dados)
     margin: 0 0 10px 0;
 }
 
+.resultado .mainResultados{
+     background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
 @keyframes spin {
     to {
         transform: translateX(0px);

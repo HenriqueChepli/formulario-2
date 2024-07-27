@@ -25,7 +25,7 @@ const mostrarDados = computed(() => {
   </div>
 </template>
 
-<style scoped>
+<style>
 div{
   margin: 0 50px;
 }
